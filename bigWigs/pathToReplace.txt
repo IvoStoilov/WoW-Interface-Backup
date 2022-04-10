@@ -1,0 +1,2 @@
+You can replace the BigWigs.lua with the one that contains the desired settings
+World of Warcraft\_retail_\WTF\Account\Account Name\SavedVariables
